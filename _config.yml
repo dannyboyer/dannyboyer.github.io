@@ -3,3 +3,4 @@ description: "Portfolio, blog and programming experiments"
 encoding: UTF-8
 timezone: Canada/Eastern
 baseurl:  /
+markdown: kramdown
