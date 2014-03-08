@@ -3,7 +3,7 @@ title: Danny Boyer | About
 layout: default
 ---
 
-###Hello!
+##Hello!
 
 
 My name is **Danny Boyer** and I am currently studying information technology engineering at École de technologie supérieure in Montreal, Quebec.
