@@ -6,7 +6,7 @@ layout: default
 
 ###Projects
 
->Here is a collection of school projects, internship works and side projects I have worked on
+Here is a collection of school projects, internship works and side projects I have worked on
 
 #### Web applications
 
