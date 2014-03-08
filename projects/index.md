@@ -6,7 +6,7 @@ layout: default
 
 ###Projects
 
-<blockquote>Here is a collection of school projects, internship works and side projects I have worked on</blockquote>
+>Here is a collection of school projects, internship works and side projects I have worked on
 
 #### Web applications
 
