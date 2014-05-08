@@ -20,9 +20,9 @@ layout: default
 		After all the pages were ready, the JEE integration was done. The static pages were converted in ".JSP" format and the routing of the application was done using the Spring MVC framework, following the REST principles. Instead of leaving the show pages statically populated, an XML stub strategy was used. That way, it was easier to edit or add new shows to BillETS before the addition of a database.
 	</p>
 	
-	<h3>Adding persistance</h3>
+	<h3>Adding persistence</h3>
 	<p>
-		Currently, BillETS still use XML stubs for its collection of shows, but not for long. Soon, a persistence layer will be added to keep track of all the transactions, shopping carts and sessions. More details to come!
+		The final and most important part of this project was to add a layer of persistence for all the data of the shows and the ticket sales. This was done by replacing the xml stub by a PostgreSQL Database. In order to simplify the interaction between the information in the database and their object counterparts, we used Hibernate to do the mapping automatically.
 	</p>
 
 </div>
@@ -31,7 +31,7 @@ layout: default
 		<ul>
 			<li><strong>Languages:</strong> Java, AJAX, SQL, HTML, CSS, JavaScript</li>
 			<li><strong>Frameworks:</strong> <a target="blank" href="http://spring.io">Spring</a>, <a target="blank" href="http://getbootstrap.com">Bootstrap</a></li>
-			<li><strong>Demo website:</strong> <a target="blank" href="http://billets.herokuapp.com/">BillETS <i class="fa fa-external-link"></i></a></li>
+			<li><strong>Website:</strong> <a target="blank" href="http://billets.herokuapp.com/">BillETS <i class="fa fa-external-link"></i></a></li>
 			<li><strong><a target="blank" href="https://github.com/dannyboyer/BillETS">Fork it on GitHub!</a></strong></li>
 			
 		</ul>
